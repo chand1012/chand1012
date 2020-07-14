@@ -1,16 +1,75 @@
-### Hi there 👋
+# About Me
+My name is Chandler, and I like to code. Ever since I was 8 or 9, I was fascinated by computers and coding. My first venture into coding was a Lego Mindstorms robot. It was graphical, but it was an algorithm of sorts. My first "real" coding was in Ruby, which while I can still code in, was quickly replaced by Python. Since then, Python has been my go-to for most of my projects and for any sort of quick prototypes I want to develop. I also have used C/C++ and NodeJS, the HTML5 Stack, and have been learning Golang for the past year. Not long ago I worked as a Software Engineering Intern at a division of SealedAir in Northeast Ohio, and it solidified my dream of coding as a full-time job, as well as teaching me a lot about both the field and working for a real company. That lasted about nine months, and currently I am working a min-wage job in my hometown while going to school full time.
 
-<!--
-**chand1012/chand1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Big Projects
+I started the [WinGuake](https://github.com/chand1012/WinGuake) project, which is supposed to be a port of the Guake Linux terminal for Windows (I haven't been developing on it as much recently due to time constraints, but help would be appreciated and would go toward development!). Recently I have been working heavily on two projects, one that I will release open source in time, and one that has been used by over 100,000 unique users on Discord, that being [Discord-Quick-Meme](https://github.com/chand1012/Discord-Quick-Meme). 
 
-Here are some ideas to get you started:
+My other hobby is 3D printing, which you can find all of my designs for [here](https://www.thingiverse.com/chand1012/about). I will also be publishing the STEP files to GitHub in the near future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This blog is about any of my projects I think I should write about, random tutorials I feel like writing, and any other random tech topic I want to write about. For your support, I'll put your name on my [Sponsors Page](https://chand1012.dev/sponsors/)!
+
+# Blog Posts
+-----------------------
+
+<div class="container" id="main" role="main">
+<div class="posts">
+<article class="post">
+<h1>Python For Programmers Part 1</h1>
+<div class="entry">
+<h1 id="what">What?</h1>
+</div>
+<a class="read-more" href="https://chand1012.dev/PythonForProgrammers/">Read More</a>
+</article>
+<article class="post">
+<h1>Why Discord Bot Development is Flawed.</h1>
+<div class="entry">
+<p>Before I complain about my experience with Discord bots, let me preamble with this: I enjoy developing the bots. I enjoy making bots that entertain people and that everyone uses for fun and memes. I like my Discord bots, I don�t regret developing them, and I will continue development of them. I do not think Discord�s current system for bot development should be replaced, it is too prevalent and there is too many bots currently using it.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/WhatsWrongWithDiscordBots/">Read More</a>
+</article>
+<article class="post">
+<h1>Git Gud. Advanced-ish Git Part 1. Squash!</h1>
+<div class="entry">
+<h1 id="intro">Intro</h1>
+</div>
+<a class="read-more" href="https://chand1012.dev/git-gud1/">Read More</a>
+</article>
+<article class="post">
+<h1>How to Host a Flask Server With Gunicorn and HTTPS</h1>
+<div class="entry">
+<p>In this tutorial, we will be setting up a Flask server using Gunicorn and NGINX on Ubuntu 18.04 LTS.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/How-To-Host-A-Flask-Server-With-Gunicorn-And-HTTPS/">Read More</a>
+</article>
+<article class="post">
+<h1>3D Printing Is A Fun yet Rewarding Cruel Mistress.</h1>
+<div class="entry">
+<p>Ever since I was 8 or 9, the idea of 3D printing seemed amazing. Objects appearing right before your very eyes, with nothing more than a computer file and a roll of plastic. Now the 3D printer that I saw didn�t really exists, as it was a piece of concept art from a book about technology I had bought at a Scholastic book fair, but when I saw it I thought it was science fiction. An idea. Nothing more than a picture in a book and an idea. I had no idea that no only was it going on at that time, but I wouldn�t have though that in the not-so-distant future I would be one of the many early adopters of the technology.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/3dprintingintro/">Read More</a>
+</article>
+<article class="post">
+<h1>Transisioning from Python to Golang and why Python programmers should consider it.</h1>
+<div class="entry">
+<h2 id="intro">Intro</h2>
+</div>
+<a class="read-more" href="https://chand1012.dev/FromPythonToGo/">Read More</a>
+</article>
+<article class="post">
+<h1>Make PowerPC Great Again.</h1>
+<div class="entry">
+<p>Back when Apple didn�t try and screw over anyone with a broken iMac, back before Intel was the standard for Apple hardware, and back before Apple lost its only source of new innovation, that being Steve Jobs, there was the PowerMac, a line of computers running RISC architecture known as PowerPC, co-developed in a partnership between IBM, Apple, and Motorola. As the Power architecture is now fairly uncommon, as x86 and ARM dominate the processor market, it is now mainly used in server applications. The only �modern� OS you can run on them now is Linux, and I use that term lightly as not a lot of applications support the architecture.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/MakePowerPCGreatAgain/">Read More</a>
+</article>
+<article class="post">
+<h1>How to Stream Any Game, on Any Console, to Anywhere.</h1>
+<div class="entry">
+<p>Ever wanted to bring your library of home console games (PC, PS4, or Xbox One) on the go? Ever wanted to play a round or two of Call Of Duty while sitting in the school library studying for a class you never payed attention to? Well, with some basic knowledge of router settings, a half decent laptop or smartphone, and an internet connection that�s not dial-up, you can!</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/GameStreaming/">Read More</a>
+</article>
+</div>
+</div>
+
+Hope you find my projects useful!
