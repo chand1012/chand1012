@@ -17,4 +17,4 @@ Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This
 
 
 
-Hope you find my projects useful!
+More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](https://dev.to/chand1012). Hope you find my projects useful!
