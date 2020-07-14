@@ -9,7 +9,7 @@ My other hobby is 3D printing, which you can find all of my designs for [here](h
 Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This blog is about any of my projects I think I should write about, random tutorials I feel like writing, and any other random tech topic I want to write about. For your support, I'll put your name on my [Sponsors Page](https://chand1012.dev/sponsors/)!
 
 # Blog Posts
------------------------
+--------------------------------
 
 <div class="container" id="main" role="main">
 <div class="posts">
@@ -23,7 +23,7 @@ Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This
 <article class="post">
 <h1>Why Discord Bot Development is Flawed.</h1>
 <div class="entry">
-<p>Before I complain about my experience with Discord bots, let me preamble with this: I enjoy developing the bots. I enjoy making bots that entertain people and that everyone uses for fun and memes. I like my Discord bots, I donï¿½t regret developing them, and I will continue development of them. I do not think Discordï¿½s current system for bot development should be replaced, it is too prevalent and there is too many bots currently using it.</p>
+<p>Before I complain about my experience with Discord bots, let me preamble with this: I enjoy developing the bots. I enjoy making bots that entertain people and that everyone uses for fun and memes. I like my Discord bots, I don’t regret developing them, and I will continue development of them. I do not think Discord’s current system for bot development should be replaced, it is too prevalent and there is too many bots currently using it.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/WhatsWrongWithDiscordBots/">Read More</a>
 </article>
@@ -44,7 +44,7 @@ Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This
 <article class="post">
 <h1>3D Printing Is A Fun yet Rewarding Cruel Mistress.</h1>
 <div class="entry">
-<p>Ever since I was 8 or 9, the idea of 3D printing seemed amazing. Objects appearing right before your very eyes, with nothing more than a computer file and a roll of plastic. Now the 3D printer that I saw didnï¿½t really exists, as it was a piece of concept art from a book about technology I had bought at a Scholastic book fair, but when I saw it I thought it was science fiction. An idea. Nothing more than a picture in a book and an idea. I had no idea that no only was it going on at that time, but I wouldnï¿½t have though that in the not-so-distant future I would be one of the many early adopters of the technology.</p>
+<p>Ever since I was 8 or 9, the idea of 3D printing seemed amazing. Objects appearing right before your very eyes, with nothing more than a computer file and a roll of plastic. Now the 3D printer that I saw didn’t really exists, as it was a piece of concept art from a book about technology I had bought at a Scholastic book fair, but when I saw it I thought it was science fiction. An idea. Nothing more than a picture in a book and an idea. I had no idea that no only was it going on at that time, but I wouldn’t have though that in the not-so-distant future I would be one of the many early adopters of the technology.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/3dprintingintro/">Read More</a>
 </article>
@@ -58,18 +58,22 @@ Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This
 <article class="post">
 <h1>Make PowerPC Great Again.</h1>
 <div class="entry">
-<p>Back when Apple didnï¿½t try and screw over anyone with a broken iMac, back before Intel was the standard for Apple hardware, and back before Apple lost its only source of new innovation, that being Steve Jobs, there was the PowerMac, a line of computers running RISC architecture known as PowerPC, co-developed in a partnership between IBM, Apple, and Motorola. As the Power architecture is now fairly uncommon, as x86 and ARM dominate the processor market, it is now mainly used in server applications. The only ï¿½modernï¿½ OS you can run on them now is Linux, and I use that term lightly as not a lot of applications support the architecture.</p>
+<p>Back when Apple didn’t try and screw over anyone with a broken iMac, back before Intel was the standard for Apple hardware, and back before Apple lost its only source of new innovation, that being Steve Jobs, there was the PowerMac, a line of computers running RISC architecture known as PowerPC, co-developed in a partnership between IBM, Apple, and Motorola. As the Power architecture is now fairly uncommon, as x86 and ARM dominate the processor market, it is now mainly used in server applications. The only “modern” OS you can run on them now is Linux, and I use that term lightly as not a lot of applications support the architecture.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/MakePowerPCGreatAgain/">Read More</a>
 </article>
 <article class="post">
 <h1>How to Stream Any Game, on Any Console, to Anywhere.</h1>
 <div class="entry">
-<p>Ever wanted to bring your library of home console games (PC, PS4, or Xbox One) on the go? Ever wanted to play a round or two of Call Of Duty while sitting in the school library studying for a class you never payed attention to? Well, with some basic knowledge of router settings, a half decent laptop or smartphone, and an internet connection thatï¿½s not dial-up, you can!</p>
+<p>Ever wanted to bring your library of home console games (PC, PS4, or Xbox One) on the go? Ever wanted to play a round or two of Call Of Duty while sitting in the school library studying for a class you never payed attention to? Well, with some basic knowledge of router settings, a half decent laptop or smartphone, and an internet connection that’s not dial-up, you can!</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/GameStreaming/">Read More</a>
 </article>
 </div>
 </div>
+
+
+
+
 
 Hope you find my projects useful!

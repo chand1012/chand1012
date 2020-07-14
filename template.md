@@ -9,7 +9,12 @@ My other hobby is 3D printing, which you can find all of my designs for [here](h
 Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This blog is about any of my projects I think I should write about, random tutorials I feel like writing, and any other random tech topic I want to write about. For your support, I'll put your name on my [Sponsors Page](https://chand1012.dev/sponsors/)!
 
 # Blog Posts
+--------------------------------
 
 <!--content-->
+
+
+
+
 
 Hope you find my projects useful!
