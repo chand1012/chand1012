@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
-
+nowstr = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
 
 url = "https://chand1012.dev"
 
@@ -40,6 +41,7 @@ for post in posts:
     post_str += f'{str(post)}\n'
 
 template = template.replace('<!--content-->', str(post_str))
+template = template.replace('<!--time-->', f'This script was last updated at {nowstr} UTC.')
 
 print("Writing new README...")
 with open('README.md', 'w') as f:
