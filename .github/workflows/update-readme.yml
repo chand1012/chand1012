@@ -6,6 +6,9 @@ name: Python application
 on:
   schedule:
     - cron: '0     */6     *     *     *'
+  push:
+    branches: 
+      - master
 
 jobs:
   build:
@@ -27,6 +30,8 @@ jobs:
     - name: Commit back to repo
       run: |
         git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+        git config user.name "Bot"
+        git config user.email "actor@example.com"
         git add -A
         git commit -m "[bot] Update README.md"
         git push github HEAD:${GITHUB_REF}
