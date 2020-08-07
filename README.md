@@ -25,6 +25,13 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 --------------------------------
 
 <article class="post">
+<h1>Python For Programmers Part 2; Controls</h1>
+<div class="entry">
+<p>Git<a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/PythonForProgrammers2/">Read More</a>
+</article>
+<article class="post">
 <h1>Python For Programmers Part 1</h1>
 <div class="entry">
 <p>Git<a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
@@ -52,13 +59,6 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 </div>
 <a class="read-more" href="https://chand1012.dev/How-To-Host-A-Flask-Server-With-Gunicorn-And-HTTPS/">Read More</a>
 </article>
-<article class="post">
-<h1>3D Printing Is A Fun yet Rewarding Cruel Mistress.</h1>
-<div class="entry">
-<p>Ever since I was 8 or 9, the idea of 3D printing seemed amazing. Objects appearing right before your very eyes, with nothing more than a computer file and a roll of plastic. Now the 3D printer that I saw didn't really exists, as it was a piece of concept art from a book about technology I had bought at a Scholastic book fair, but when I saw it I thought it was science fiction. An idea. Nothing more than a picture in a book and an idea. I had no idea that no only was it going on at that time, but I wouldn't have though that in the not-so-distant future I would be one of the many early adopters of the technology.</p>
-</div>
-<a class="read-more" href="https://chand1012.dev/3dprintingintro/">Read More</a>
-</article>
 
 
 
@@ -72,6 +72,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 08/07/2020, 12:11:42 UTC.
+This script was last updated at 08/07/2020, 18:08:32 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
