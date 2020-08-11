@@ -25,10 +25,7 @@ for post in posts:
             old_href = link.get('href')
             new_href = url + old_href
             link['href'] = new_href
-        else:
-            text = link.contents[0]
-            heading = link.parent
-            heading.contents[0] = text
+        
 
 print("Done. Reading template...")
 template = ''
@@ -39,6 +36,7 @@ with open('template.md') as f:
 post_str = ''
 for post in posts:
     post_str += f'{str(post)}\n'
+    print(str(post))
 
 template = template.replace('<!--content-->', str(post_str))
 template = template.replace('<!--time-->', f'This script was last updated at {nowstr} UTC.')

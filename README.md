@@ -25,35 +25,35 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 --------------------------------
 
 <article class="post">
-<h1>GistBin - The GitHub Gist command line client.</h1>
+<h1><a href="/GistbinGistClient/">GistBin - The GitHub Gist command line client.</a></h1>
 <div class="entry">
-<p>HasteBin Server<a href="https://pastebin.com/">PasteBin</a>. The reason I was using PasteBin was because that is what the Minecraft mod, ComputerCraft, allowed you to download code off of the internet easily. I wrote a few programs that are still on <a href="https://pastebin.com/u/chand1012">my PasteBin</a>. Since I found out that GitHub had a competitor in the form of GitHub's Gists, I switched to that. I like the GitHub platform and its easy to switch between the gists and Git, and even clone the gists with <code class="language-plaintext highlighter-rouge">git clone</code>. I recently found <a href="https://hastebin.com/about.md">HasteBin</a>, an open source alternative to PasteBin that has a command-line tool. The command-line tool, called <a href="https://github.com/seejohnrun/haste-client">haste-client</a> is extremely easy to use, only requiring you to pipe in the information you want to upload to HasteBin. You can even host your own <a href="https://github.com/seejohnrun/haste-server">HasteBin Server</a> and point the haste-client to it. While I liked this, I also liked the ability to have other information about the code that I was sharing, along with being able to look at revisions like git, but haste-client is <em>so easy</em> to use, so I decided to create my own client for Gists.</p>
+<p>So I have always like the idea of being able to share simple snippets of code, but my first real foray into this was using <a href="https://pastebin.com/">PasteBin</a>. The reason I was using PasteBin was because that is what the Minecraft mod, ComputerCraft, allowed you to download code off of the internet easily. I wrote a few programs that are still on <a href="https://pastebin.com/u/chand1012">my PasteBin</a>. Since I found out that GitHub had a competitor in the form of GitHub's Gists, I switched to that. I like the GitHub platform and its easy to switch between the gists and Git, and even clone the gists with <code class="language-plaintext highlighter-rouge">git clone</code>. I recently found <a href="https://hastebin.com/about.md">HasteBin</a>, an open source alternative to PasteBin that has a command-line tool. The command-line tool, called <a href="https://github.com/seejohnrun/haste-client">haste-client</a> is extremely easy to use, only requiring you to pipe in the information you want to upload to HasteBin. You can even host your own <a href="https://github.com/seejohnrun/haste-server">HasteBin Server</a> and point the haste-client to it. While I liked this, I also liked the ability to have other information about the code that I was sharing, along with being able to look at revisions like git, but haste-client is <em>so easy</em> to use, so I decided to create my own client for Gists.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/GistbinGistClient/">Read More</a>
 </article>
 <article class="post">
-<h1>Python For Programmers Part 2; Controls</h1>
+<h1><a href="/PythonForProgrammers2/">Python For Programmers Part 2; Controls</a></h1>
 <div class="entry">
-<p>Git<a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
+<p>This is a series on Python and how to correctly use Python when coming from a background in another computer language. Because of this, this will not be a slow intro into programming and it will be assumed you have a preferred text editor and are smart enough to get Python running. You can download installers and packages from their official website found <a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/PythonForProgrammers2/">Read More</a>
 </article>
 <article class="post">
-<h1>Python For Programmers Part 1</h1>
+<h1><a href="/PythonForProgrammers/">Python For Programmers Part 1</a></h1>
 <div class="entry">
-<p>Git<a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
+<p>This is a series on Python and how to correctly use Python when coming from a background in another computer language. Because of this, this will not be a slow intro into programming and it will be assumed you have a preferred text editor and are smart enough to get Python running. You can download installers and packages from their official website found <a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/PythonForProgrammers/">Read More</a>
 </article>
 <article class="post">
-<h1>Why Discord Bot Development is Flawed.</h1>
+<h1><a href="/WhatsWrongWithDiscordBots/">Why Discord Bot Development is Flawed.</a></h1>
 <div class="entry">
 <p>Before I complain about my experience with Discord bots, let me preamble with this: I enjoy developing the bots. I enjoy making bots that entertain people and that everyone uses for fun and memes. I like my Discord bots, I don't regret developing them, and I will continue development of them. I do not think Discord's current system for bot development should be replaced, it is too prevalent and there is too many bots currently using it.</p>
 </div>
 <a class="read-more" href="https://chand1012.dev/WhatsWrongWithDiscordBots/">Read More</a>
 </article>
 <article class="post">
-<h1>Git Gud. Advanced-ish Git Part 1. Squash!</h1>
+<h1><a href="/git-gud1/">Git Gud. Advanced-ish Git Part 1. Squash!</a></h1>
 <div class="entry">
 <h1 id="intro">Intro</h1>
 </div>
@@ -72,6 +72,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 08/11/2020, 12:14:18 UTC.
+This script was last updated at 08/11/2020, 11:02:26 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
