@@ -19,13 +19,14 @@ soup = BeautifulSoup(content, features='html.parser')
 posts = soup.findAll('article', attrs={"class", "post"})[:5]
 
 for post in posts:
-    links = post.findAll('a')
-    for link in links:
+    for link in post.findAll('a'):
         if 'read-more' in str(link.get('class')):
             old_href = link.get('href')
             new_href = url + old_href
             link['href'] = new_href
-        
+
+    for heading in post.findAll('h1'):
+        heading.string = heading.text
 
 print("Done. Reading template...")
 template = ''
@@ -36,7 +37,6 @@ with open('template.md') as f:
 post_str = ''
 for post in posts:
     post_str += f'{str(post)}\n'
-    print(str(post))
 
 template = template.replace('<!--content-->', str(post_str))
 template = template.replace('<!--time-->', f'This script was last updated at {nowstr} UTC.')
