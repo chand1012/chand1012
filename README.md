@@ -72,6 +72,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 11/16/2020, 10:12:13 UTC.
+This script was last updated at 11/23/2020, 10:13:20 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
