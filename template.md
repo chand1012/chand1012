@@ -19,7 +19,7 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 
 # GitHub Stats
 
-[![chand1012's github stats](https://github-readme-stats.vercel.app/api?username=chand1012)](https://github.com/anuraghazra/github-readme-stats)
+[![chand1012's github stats](https://github.com/chand1012/chand1012/raw/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 # Blog Posts
 --------------------------------
