@@ -19,11 +19,18 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 
 # GitHub Stats
 
-[![chand1012's github stats](https://github-readme-stats.vercel.app/api?username=chand1012)](https://github.com/anuraghazra/github-readme-stats)
+[![chand1012's github stats](https://github.com/chand1012/chand1012/raw/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 # Blog Posts
 --------------------------------
 
+<article class="post">
+<h1>Fixing Commit Messages. Git Gud. Advanced-ish Git Part 2.</h1>
+<div class="entry">
+<h1 id="intro">Intro</h1>
+</div>
+<a class="read-more" href="https://chand1012.dev/git-gut2/">Read More</a>
+</article>
 <article class="post">
 <h1>GistBin - The GitHub Gist command line client.</h1>
 <div class="entry">
@@ -52,13 +59,6 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 </div>
 <a class="read-more" href="https://chand1012.dev/WhatsWrongWithDiscordBots/">Read More</a>
 </article>
-<article class="post">
-<h1>Git Gud. Advanced-ish Git Part 1. Squash!</h1>
-<div class="entry">
-<h1 id="intro">Intro</h1>
-</div>
-<a class="read-more" href="https://chand1012.dev/git-gud1/">Read More</a>
-</article>
 
 
 
@@ -72,6 +72,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 12/14/2020, 10:16:40 UTC.
+This script was last updated at 12/15/2020, 03:53:15 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
