@@ -28,6 +28,13 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 --------------------------------
 
 <article class="post">
+<h1>Why I hate being a developer around Christmas time.</h1>
+<div class="entry">
+<p>Christmas time is a time of joy, family, giving, and life. Unless its 2020.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/ChristmasTimeRant/">Read More</a>
+</article>
+<article class="post">
 <h1>Fixing Commit Messages. Git Gud. Advanced-ish Git Part 2.</h1>
 <div class="entry">
 <h1 id="intro">Intro</h1>
@@ -55,13 +62,6 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 </div>
 <a class="read-more" href="https://chand1012.dev/PythonForProgrammers/">Read More</a>
 </article>
-<article class="post">
-<h1>Why Discord Bot Development is Flawed.</h1>
-<div class="entry">
-<p>Before I complain about my experience with Discord bots, let me preamble with this: I enjoy developing the bots. I enjoy making bots that entertain people and that everyone uses for fun and memes. I like my Discord bots, I don't regret developing them, and I will continue development of them. I do not think Discord's current system for bot development should be replaced, it is too prevalent and there is too many bots currently using it.</p>
-</div>
-<a class="read-more" href="https://chand1012.dev/WhatsWrongWithDiscordBots/">Read More</a>
-</article>
 
 
 
@@ -75,6 +75,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 12/18/2020, 04:32:57 UTC.
+This script was last updated at 12/21/2020, 10:19:24 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
