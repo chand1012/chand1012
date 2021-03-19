@@ -1,5 +1,5 @@
 # About Me
-My name is Chandler, and I like to code. Ever since I was 8 or 9, I was fascinated by computers and coding. My first venture into coding was a Lego Mindstorms robot. It was graphical, but it was an algorithm of sorts. My first "real" coding was in Ruby, which while I can still code in, was quickly replaced by Python. Since then, Python has been my go-to for most of my projects and for any sort of quick prototypes I want to develop. I also have used C/C++ and NodeJS, the HTML5 Stack, and wrote a Discord bot in Golang. For most of 2019 and the first month of 2020, I worked as a Software Engineering Intern at a division of SealedAir in Northeast Ohio, and it solidified my dream of coding as a full-time job, as well as teaching me a lot about both the field and working for a real company. Currently I am working on @pillargg part time while finishing my Computer Science degree at The University of Akron.
+My name is Chandler, and I like to code. Ever since I was 8 or 9, I was fascinated by computers and coding. My first venture into coding was a Lego Mindstorms robot. It was graphical, but it was an algorithm of sorts. My first "real" coding was in Ruby, which while I can still code in, was quickly replaced by Python. Since then, Python has been my go-to for most of my projects and for any sort of quick prototypes I want to develop. I also have used C/C++ and NodeJS, the HTML5 Stack, and wrote a Discord bot in Golang. For most of 2019 and the first month of 2020, I worked as a Software Engineering Intern at a division of SealedAir in Northeast Ohio, and it solidified my dream of coding as a full-time job, as well as teaching me a lot about both the field and working for a real company. Currently I am working on [Pillar](https://github.com/pillargg) part time while finishing my Computer Science degree at The University of Akron.
 
 # Questions? Just ask!
 I recently started a GitHub Discussions page on my GitHub README. Ask my about past experience, my IDE preferences, my opinion on various programming languages (Spoiler: Python is my favorite!) or anything else you'd like. Find it [here](https://github.com/chand1012/chand1012/discussions)!
@@ -75,6 +75,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 03/19/2021, 22:18:09 UTC.
+This script was last updated at 03/19/2021, 22:23:44 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
