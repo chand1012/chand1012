@@ -28,6 +28,13 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 --------------------------------
 
 <article class="post">
+<h1>Python For Programmers Part 3</h1>
+<div class="entry">
+<p>This is a series on Python and how to correctly use Python when coming from a background in another computer language. Because of this, this will not be a slow intro into programming and it will be assumed you have a preferred text editor and are smart enough to get Python running. You can download installers and packages from their official website found <a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
+</div>
+<a class="read-more" href="https://chand1012.dev/PythonForProgrammers3/">Read More</a>
+</article>
+<article class="post">
 <h1>How to Install Node on Linux the Easy Way.</h1>
 <div class="entry">
 <p>I recently started working on a few major NodeJS project, and found that installing the latest LTS release could be rather cumbersome on Linux. The application we're developing is being hosted on Heroku, and will not be using a Docker container, and for a few reasons we would rather develop locally rather than in a container. Here is how I installed NodeJS and NPM on my Linux installations, and I found it quite easy. While this tutorial will be using Ubuntu's <code class="language-plaintext highlighter-rouge">apt</code> and Arch Linux's <code class="language-plaintext highlighter-rouge">pacman</code>, the process should be similar for most distributions. See <a href="https://nodejs.org/en/download/package-manager/">here</a> for more information about installing NodeJS and NPM via your package manager.</p>
@@ -55,13 +62,6 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 </div>
 <a class="read-more" href="https://chand1012.dev/GistbinGistClient/">Read More</a>
 </article>
-<article class="post">
-<h1>Python For Programmers Part 2; Controls</h1>
-<div class="entry">
-<p>This is a series on Python and how to correctly use Python when coming from a background in another computer language. Because of this, this will not be a slow intro into programming and it will be assumed you have a preferred text editor and are smart enough to get Python running. You can download installers and packages from their official website found <a href="https://www.python.org/downloads/">here</a>. Basic knowledge of how to use <a href="https://git-scm.com/">Git</a> and how to operate a computer is also preferred.</p>
-</div>
-<a class="read-more" href="https://chand1012.dev/PythonForProgrammers2/">Read More</a>
-</article>
 
 
 
@@ -75,6 +75,6 @@ More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](htt
 
 Update script written in Python.
 
-This script was last updated at 04/26/2021, 10:04:12 UTC.
+This script was last updated at 05/03/2021, 10:04:05 UTC.
 
 <img height=48 width=48 src="https://camo.githubusercontent.com/cc1b5b07ad8a80491b42035775baedf76a3b836c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
