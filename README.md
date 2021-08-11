@@ -25,14 +25,6 @@ Icons by [edent](https://github.com/edent/SuperTinyIcons).
 
 [![chand1012's github stats](https://github.com/chand1012/chand1012/raw/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
-# Blog Posts
---------------------------------
-
-
-
-
---------------------------------
-
 # Conclusion
 
 More posts can be found on the [blog](https://chand1012.dev/) or on [dev.to](https://dev.to/chand1012). Hope you find my projects useful!
