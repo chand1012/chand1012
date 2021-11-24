@@ -1,3 +1,5 @@
+[![chand1012's github stats](https://github.com/chand1012/chand1012/raw/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
 # About Me
 
 My name is Chandler, and I like to code. Ever since I was 8 or 9, I was fascinated by computers and coding. My first venture into coding was a Lego Mindstorms robot. It was graphical, but it was an algorithm of sorts. My first "real" coding was in Ruby, which while I can still code in, was quickly replaced by Python. Since then, Python has been my go-to for most of my projects and for any sort of quick prototypes I want to develop. I also have used C/C++ and NodeJS, the HTML5 Stack, and wrote a Discord bot in Golang. For most of 2019 and the first month of 2020, I worked as a Software Engineering Intern at a division of SealedAir in Northeast Ohio, and it solidified my dream of coding as a full-time job, as well as teaching me a lot about both the field and working for a real company. Currently I am working on [Pillar](https://github.com/pillargg) part time while finishing my Computer Science degree at The University of Akron.
@@ -24,10 +26,6 @@ Finally, I like to write occasionally on [my blog](https://chand1012.dev/). This
 [<img height=48 width=48 src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"/>](https://twitch.tv/chand1012)
 
 Icons by [edent](https://github.com/edent/SuperTinyIcons).
-
-# GitHub Stats
-
-[![chand1012's github stats](https://github.com/chand1012/chand1012/raw/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 # Conclusion
 
