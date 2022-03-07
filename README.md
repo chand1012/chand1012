@@ -2,15 +2,9 @@
 
 # About Me
 
-My name is Chandler, and I like to code. Ever since I was 8 or 9, I was fascinated by computers and coding. My first venture into coding was a Lego Mindstorms robot. It was graphical, but it was an algorithm of sorts. My first "real" coding was in Ruby, which while I can still code in, was quickly replaced by Python. Since then, Python has been my go-to for most of my projects and for any sort of quick prototypes I want to develop. I also have used C/C++ and NodeJS, the HTML5 Stack, and wrote a Discord bot in Golang. For most of 2019 and the first month of 2020, I worked as a Software Engineering Intern at a division of SealedAir in Northeast Ohio, and it solidified my dream of coding as a full-time job, as well as teaching me a lot about both the field and working for a real company. For 2020 and 2021, I worked freelance on [Pillar](https://github.com/pillargg) and [Deephire](https://deephire.com). Currently working on [GoGoPool](https://www.gogopool.xyz/) while finishing my Computer Science degree at The University of Akron.
+Currently working on a new Web3 Project on Avalanche.
 
-# My Projects
-
-I started the [WinGuake](https://github.com/chand1012/WinGuake) project, which is supposed to be a port of the Guake Linux terminal for Windows (I haven't been developing on it as much recently due to time constraints, but help would be appreciated and would go toward development!). I developed [Quick-Meme](https://github.com/chand1012/Discord-Quick-Meme), a Discord bot that gets content from Reddit and is on over 1,200 servers and has been used by over 100,000 people worldwide. Recently, I've been working on [GoGoPool](https://www.gogopool.xyz/), the future of decentralized liquid staking on the Avalanche network.
-
-My other hobby is 3D printing, which you can find all of my designs for [here](https://www.thingiverse.com/chand1012/about). I will also be publishing the STEP files to GitHub in the near future.
-
-Finally, I like to write occasionally on [my blog](https://blog.chand1012.dev/). This blog is about any of my projects I think I should write about, random tutorials I feel like writing, and any other random tech topic I want to write about. For your support, I'll put your name on my [Sponsors Page](https://blog.chand1012.dev/sponsors/)!
+For more about my projects and previous work experience, check out my [portfolio site](https://www.chand1012.dev/). If you like code, also check out my [blog](https://blog.chand1012.dev).
 
 # Social
 
@@ -22,3 +16,4 @@ Finally, I like to write occasionally on [my blog](https://blog.chand1012.dev/).
 [<img height=48 width=48 src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"/>](https://twitch.tv/chand1012)
 
 Icons by [edent](https://github.com/edent/SuperTinyIcons).
+
