@@ -10,7 +10,7 @@ For more about my projects and previous work experience, check out my [portfolio
 
 ETH / Avalanche C Chain: `0x6e1E9A667e08CBe272393B4A3b21bc548cFdF7B2`
 
-Avalanche X Chain: `X-fuji1hr43hlly0a8zdzhm6rahkce3rjgwdkn39wm8ce`
+Avalanche X Chain: `X-avax1hr43hlly0a8zdzhm6rahkce3rjgwdkn3fulc5x`
 
 NEAR Protocol: `chand1012.near`
 
