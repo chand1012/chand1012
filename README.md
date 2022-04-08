@@ -12,6 +12,8 @@ ETH / Avalanche C Chain: `0x6e1E9A667e08CBe272393B4A3b21bc548cFdF7B2`
 
 Avalanche X Chain: `X-fuji1hr43hlly0a8zdzhm6rahkce3rjgwdkn39wm8ce`
 
+NEAR Protocol: `chand1012.near`
+
 # Social
 
 [<img height=48 width=48 src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/>](https://instagram.com/chand1012)
