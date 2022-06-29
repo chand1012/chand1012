@@ -25,7 +25,7 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1EpiCq0isF0a5F?utm_source=generator&theme=0
           plugin_isocalendar: yes
           plugin_rss: yes
-          plugin_rss_source: https://blog.chand1012.dev/feed.xml
+          plugin_rss_source: https://blog.chand1012.dev/posts/index.xml
           plugin_rss_limit: 5
           plugin_gists: yes
           plugin_stars: yes
