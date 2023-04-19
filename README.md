@@ -6,14 +6,6 @@ Currently working on [GoGoPool](https://www.gogopool.com/) @ [Multisig Labs](htt
 
 For more about my projects and previous work experience, check out my [portfolio site](https://www.chand1012.dev/). If you like code, also check out my [blog](https://blog.chand1012.dev).
 
-# Crypto
-
-ETH / Avalanche C Chain: `0x6e1E9A667e08CBe272393B4A3b21bc548cFdF7B2`
-
-Avalanche X Chain: `X-avax1hr43hlly0a8zdzhm6rahkce3rjgwdkn3fulc5x`
-
-NEAR Protocol: `chand1012.near`
-
 # Social
 
 [<img height=48 width=48 src="https://camo.githubusercontent.com/5db862b15e660451b524382c77f60cbd49f176f9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667"/>](https://dev.to/chand1012)
