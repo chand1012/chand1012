@@ -2,7 +2,7 @@
 
 # About Me
 
-Currently working on [GoGoPool](https://www.gogopool.com/) @ [Multisig Labs](https://github.com/multisig-labs/), [Casual Coders](https://github.com/CasualCodersProjects), and [TimeSurge Labs](https://github.com/TimeSurgeLabs).
+Currently working on [Hypha](https://www.hypha.sh/) @ [Multisig Labs](https://github.com/multisig-labs/) & Building cool AI @ [TimeSurge Labs](https://github.com/TimeSurgeLabs).
 
 For more about my projects and previous work experience, check out my [portfolio site](https://www.chand1012.dev/). If you like code, also check out my [blog](https://dev.to/chand1012).
 
