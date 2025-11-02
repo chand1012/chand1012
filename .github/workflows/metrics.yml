@@ -20,7 +20,7 @@ jobs:
           plugin_languages: yes
           plugin_isocalendar: yes
           plugin_rss: yes
-          plugin_rss_source: https://blog.chand1012.dev/posts/index.xml
+          plugin_rss_source: https://dev.to/feed/chand1012
           plugin_rss_limit: 5
           plugin_gists: yes
           plugin_stars: yes
