@@ -2,7 +2,7 @@
 
 # About Me
 
-Currently working on [Hypha](https://www.hypha.sh/) @ [Multisig Labs](https://github.com/multisig-labs/) & Building cool AI @ [TimeSurge Labs](https://github.com/TimeSurgeLabs).
+Building AI powered Certification and Standards Workflows & Automations @ [Saphira](https://www.saphira.ai/)!
 
 For more about my projects and previous work experience, check out my [portfolio site](https://www.chand1012.dev/). If you like code, also check out my [blog](https://dev.to/chand1012).
 
