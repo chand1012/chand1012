@@ -1,7 +1,7 @@
 Building AI powered Certification and Standards Workflows & Automation @ [Saphira](https://www.saphira.ai/)!
 
 [![Hero](https://chand1012.dev/api/og/hero?theme=dark)](https://chand1012.dev/#about)
-[![Activity](https://chand1012.dev/api/og/activity?theme=dark)](https://chand1012.dev/#activity)
+[![Activity](https://chand1012.dev/api/og/github?theme=dark)](https://chand1012.dev/#github-stats)
 [![Skills](https://chand1012.dev/api/og/skills?theme=dark)](https://chand1012.dev/#about)
 [![Employment](https://chand1012.dev/api/og/employment?theme=dark)](https://chand1012.dev/#experience)
 [![Projects](https://chand1012.dev/api/og/projects?theme=dark)](https://github.com/chand1012?tab=repositories)
